@@ -1,7 +1,7 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date:** 2019-06-03
 
-**Learned:** 
+**Learned:** I learned that Spyder is where I can run things from the console.
 
 # Day 2: Printing in Python
 **Completion Date:** 
