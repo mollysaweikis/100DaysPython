@@ -4,9 +4,9 @@
 **Learned:** I learned that Spyder is where I can run things from the console.
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:** 2019-06-04
 
-**Learned:** 
+**Learned:** I learned some stuff about strings and formatting them in python.
 
 # Day 3: Operators
 **Completion Date:** 
