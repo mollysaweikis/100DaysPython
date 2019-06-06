@@ -14,9 +14,9 @@
 **Learned:** Arithmatic, more string stuff. It's not rocket science yet.
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date:** 2019-06-06
 
-**Learned:** 
+**Learned:** Stuff about variables. Still not rocket science.
 
 # Day 5: String Formatting
 **Completion Date:** 
