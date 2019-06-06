@@ -9,9 +9,9 @@
 **Learned:** I learned some stuff about strings and formatting them in python.
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date:** 2019-06-06
 
-**Learned:** 
+**Learned:** Arithmatic, more string stuff. It's not rocket science yet.
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
