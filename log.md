@@ -19,9 +19,9 @@
 **Learned:** Stuff about variables. Still not rocket science.
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date:** 2019-06-07
 
-**Learned:** 
+**Learned:** More string stuff. Formatting is weird.
 
 # Day 6: Lists
 **Completion Date:** 
