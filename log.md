@@ -24,19 +24,19 @@
 **Learned:** More string stuff. Formatting is weird.
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:** 2019-06-11
 
-**Learned:** 
+**Learned:** More string formatting, stuff about lists
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date:** 2019-06-11
 
-**Learned:** 
+**Learned:** Ranges are different from lists
 
 # Day 8: Tuples
-**Completion Date:** 
+**Completion Date:** 2019-06-12
 
-**Learned:** 
+**Learned:** Tuples are sort of like lists, can have different data types inside, and are immutable
 
 # Day 9: Index and Slicing
 **Completion Date:** 
