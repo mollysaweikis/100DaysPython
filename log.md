@@ -39,9 +39,9 @@
 **Learned:** Tuples are sort of like lists, can have different data types inside, and are immutable
 
 # Day 9: Index and Slicing
-**Completion Date:** 
+**Completion Date:** 2019-06-12
 
-**Learned:** 
+**Learned:** Indexes and Slicing
 
 # Day 10: If/Else
 **Completion Date:** 
